@@ -1,0 +1,116 @@
+category_id,word1,word2,word3,word4,word5,word6
+2,Löwe,Delfin,Panda,Giraffe,Pinguin,Tiger
+2,Adler,Elefant,Känguru,Frosch,Hai,Ameise
+2,Oktopus,Gorilla,Flamingo,Nashorn,Schmetterling,Krokodil
+2,Eule,Eichhörnchen,Schildkröte,Zebra,Krabbe,Bär
+2,Seepferdchen,Walross,Fledermaus,Tukan,Kugelfisch,Erdmännchen
+2,Biber,Elch,Aal,Maus,Hund,Katze
+2,Hase,Huhn,Schwein,Schaf,Schnecke,Käfer
+2,Libelle,Schlange,Kamel,Qualle,Igel,Nilpferd
+2,Wal,Stachelschwein,Biene,Mücke,Marienkäfer,Spinne
+2,Pfau,Wurm,Seestern,Maulwurf,Pferd,Skorpion
+3,Geschenk,Weihnachtsbaum,Kerze,Stern,Glocke,Schneemann
+3,Schlitten,Schneeflocke,Mütze,Socke,Kamin,Mistelzweig
+3,Engel,Christbaumkugel,Adventskranz,Vanillekipferl,Schlittschuhe,Wunschzettel
+3,Lichterkette,Geschenkpapier,Tasse,Schal,Handschuhe,Nussknacker
+3,Krippe,Schokolade,Stiefel,Laterne,Tannenzapfen,Kirche
+3,Sternschnuppe,Kerzenständer,Harfe,Blockflöte,Fliege,Weihnachtsgans
+3,Eiszapfen,Lieder,Bratapfel,Rentier,Nikolaus,Lametta
+3,Hirte,Drei Könige,Stall,Lebkuchen,Familie,Fondue
+3,Stollen,Mandarine,Esel,Nüsse,Spekulatius,Spritzgebäck
+3,Sack,Zapfen,Lichterbogen,Herz,Baumständer,Raclette
+4,5 Towers,13 Wörter,Age of Steam,Applejack,Aqualin,Arche Nova
+4,Arborea,Artischocken,Azul,Barcelona,Beer & Bread,Beyond the Sun
+4,Bitoku,Bohnanza,Broad Lines,Brass,Burgen von Burgund,Caldera Park
+4,Calico,Cascadia,Catan,Caverna,Champions,CO2
+4,Codex Naturalis,Cutterland,Dixit,Dinosaur Island,Dive,Dominion
+4,Dorfromantik,Draftosaurus,Erde,Eselsbrücke,Ein Fest für Odin,Flügelschlag
+4,Fun Facts,Gaia Project,Geistesblitz,Gutenberg,Hadrianswall,Hallertau
+4,Hanabi,Hashi,Illusion,Istanbul,It's a Balloon!?,Just One
+4,Kneipenquiz,Lacrimosa,Letter Jam,Mandala Stones,Maracaibo,Master Word
+4,Merchants Cove,Merw,MicroMacro,New York Zoo,Nidavellir,Nine Tiles Panic
+4,Nusfjord,Ohanami,Ökosystem,Paleo,Pandemic,Parks
+4,Pictures,Printing Press,Quacksalber,Rajas of the Ganges,Rote Kathedrale,Sattgrün
+4,Silver & Gold,Skull King,Smart10,So Kleever!,Spirit Island,Stone Age
+4,Terraforming Mars,Tekhenu,Teotihuacan,Tiletum,Top Ten,Tzolk'in
+4,Ultimate Railroads,Underwater Cities,What the Rule?!,Zug um Zug,Würfelwelten,Tokyo Highway
+5,Shampoo,Seife,Rasierer,Zahnbürste,Zahnpasta,Zahnseide
+5,Toilettenpapier,Waschbecken,Wasserhahn,Dusche,Unterhose,Schuh
+5,Deodorant,Hose,T-Shirt,Jacke,Smartphone,Schlüssel
+5,Auto,Bett,Trinkglas,Computer,Tastatur,Gabel
+5,Taschentuch,Bonbon,Pfanne,Pfannenwender,Kühlschrank,Putzroboter
+5,Messer,Löffel,Schüssel,Teller,Tisch,Herd
+5,Topf,Mikrowelle,Monitor,Kopfhörer,Handtuch,Stuhl
+5,Stift,Lineal,Radiergummi,Taschenrechner,Pinsel,Schere
+5,Buch,Papier,Bügel,Bügeleisen,Bügelbrett,Mülleimer
+5,Flasche,Taschenlampe,Fenster,Vase,Fernseher,Uhr
+6,Croissant,Brötchen,Toast,Salami,Käse,Apfel
+6,Banane,Birne,Kiwi,Wassermelone,Kirsche,Erdbeere
+6,Traube,Nudeln,Reis,Kartoffeln,Kroketten,Pommes Frites
+6,Pizza,Eis,Waffeln,Wein,Bier,Fanta
+6,Cocktail,Wasser,Marmelade,Sushi,Burger,Döner
+6,Avocado,Muffin,Kuchen,Donut,Hot Dog,Ananas
+6,Baguette,Honig,Tomate,Zwiebel,Knoblauch,Salz
+6,Pfeffer,Brot,Paprika,Ei,Brokkoli,Lauch
+6,Chips,Salzstangen,Erdnussflips,Tortillas,Knödel,Speckstreifen
+6,Pilze,Gurke,Möhre,Kopfsalat,Mais,Teebeutel
+1,Haus,Türe,Straße,Bürgersteig,Ampel,Schild
+1,Burg,See,Fluss,Baum,Blume,Sonne
+1,Vogel,Ball,Fahrrad,Schiff,Wolke,Kaktus
+1,Mond,Brücke,Regenschirm,Musiknote,Teddybär,Flugzeug
+1,Treppe,Gitarre,Hut,Seifenblase,Himmel,Baumhaus
+1,Kamera,Zelt,Insel,Rakete,Gesicht,Berg
+1,Welle,Tasche,Drache,Regenbogen,Hubschrauber,Schlüsselanhänger
+1,Roboter,Glühbirne,Traktor,Windmühle,Kompass,Bumerang
+1,Schaukel,Kürbis,Kleeblatt,Fahne,Brief,Planet
+1,Arm,Bein,Kopf,Fuß,Knochen,Hand
+1,Bauch,Trampolin,Schornstein,Feder,Diamant,Zahn
+1,Kissen,Muschel,Tannenbaum,Pfeil,Vogelhaus,Krone
+1,U-Boot,Auge,Mund,Ohr,Nase,Brille
+1,Zug,Bus,Motorrad,Herzschlag,Puzzle,Telefon
+1,Federball,Ufo,Trompete,Klavier,Mikrofon,Leiter
+1,Leinwand,Wecker,Krawatte,Hemd,Kleid,Laptop
+1,Lautsprecher,Zeitung,Kleber,Farbpalette,Haar,Zunge
+1,Ring,Kette,Alien,Geist,Vampir,Tafel
+1,Reifen,Stoppschild,Bushaltestelle,Kreisverkehr,Zebrastreifen,Parkplatz
+1,LKW,Roller,Tunnel,Skateboard,Gießkanne,Schaufel
+1,Zaun,Schubkarre,Grill,Hängematte,Blumentopf,Parkbank
+1,Gartenzwerg,Spritze,Pflaster,Verband,Apotheke,Krankenhaus
+1,Medikament,Drucker,Büroklammer,USB-Stick,Atom,DNA
+1,Anker,Paddel,CD,Bogen,Spinnennetz,Lagerfeuer
+1,Streichholz,Feuerzeug,Vulkan,Feuerwehr,Zigarette,Bilderrahmen
+1,Lupe,Helm,Tischtennis,Federmappe,Türklinke,Lichtschalter
+1,Wäschekorb,Klobürste,Polaroid,Haarbürste,Waschmaschine,Kamm
+1,Hufeisen,Lenkrad,Schublade,Schraubendreher,Hammer,Säge
+1,Nagel,Armbanduhr,Rechen,Würfel,Galgen,Kreuz
+1,Davidstern,Megafon,Luftballon,Leuchtturm,Tornado,Rucksack
+1,Stirnlampe,Kassette,Besen,Fernbedienung,Wattestäbchen,Luftpumpe
+1,Tennisschläger,Isomatte,Zange,Flip-Flops,Angel,Skistock
+1,Schneebesen,Kreide,Schuhanzieher,Wäscheklammer,Flaschenöffner,Teekanne
+1,Eieruhr,Eierbecher,Schnuller,Trommel,Taschenmesser,Klingel
+1,Tortenheber,Thermometer,Webcam,Korkenzieher,Regal,Steckdose
+1,Locher,Tacker,Teelicht,Nudelholz,Pinzette,Schlafmaske
+1,Fliegenklatsche,Wärmflasche,Mutter,Mixer,Pizzaschneider,Wasserwaage
+1,Zollstock,Ordner,Ausweis,Nadel,Schallplatte,Fernglas
+1,Golfschläger,Zielscheibe,Wasserpfeife,Kreisel,Jo-Jo,Diabolo
+1,Kanu,Globus,Zirkel,Gewehr,Pistole,Handschelle
+1,Gürtel,Funkgerät,Fächer,Koffer,Knopf,Bauchtasche
+1,Schnürsenkel,Flossen,Handtasche,Harpune,Schranke,Fön
+1,Hantel,Ventilator,Batterie,Zuckerwatte,Kothaufen,Toilette
+1,Schraube,Kran,Pyramide,WLAN,Bluetooth,Pömpel
+1,Surfbrett,Iglu,Stoppuhr,Badewanne,Bowlingkugel,Domino
+1,Brezel,Münze,Peitsche,Heißluftballon,Schwamm,Spitzer
+1,Fidget Spinner,Grabstein,Zauberstab,Baseballschläger,Einrad,Türkeil
+1,Windhose,Reißverschluss,FFP2-Maske,Heizung,Sparschwein,Mausefalle
+1,Schnorchel,Trichter,Skier,Gift,Wasserabzieher,Duschbrause
+1,Gardinen,Kehrblech,Portemonnaie,Parkscheibe,Boxsack,Basketball
+1,Rollstuhl,Karabinerhaken,Fackel,Notausgang,Kalender,Krücke
+1,Schlauch,Haarspange,Tröte,Schürze,Pokal,Schatzkarte
+1,Untersetzer,Klebeband,Stehlampe,Verlängerungskabel,Nasenspray,Brillenetui
+1,Briefmarke,Kaffeefilter,Fußballtor,Sandalen,Wäscheständer,Eierkarton
+1,Seil,Klemmbaustein,Pfeife,Fernrohr,Satellitenschüssel,Sichel
+1,Knoten,Waage,Feuerlöscher,Brechstange,Reagenzglas,Fass
+1,Axt,Kanone,Popcorn,Spielkarten,Gleis,Schaukelstuhl
+1,Dynamit,Spitzhacke,Tipi,Schwert,Amboss,Schriftrolle
+1,Kronkorken,Zeppelin,Satellit,Zahnstocher,Füller,Abakus
+1,Sicherheitsnadel,Lippenstift,Staubsauger,Toaster,Blitzer,Sanduhr
